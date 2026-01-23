@@ -55,4 +55,4 @@ python main.py --dataset Indian --flag_test test
 ```
 ## Acknowledgement
 
-Part of this code is based on the implementation of [DSNet](https://github.com/hanzhu97702/DSNet); many thanks to the authors for their valuable work.
+Part of this code is based on the implementation of [DSNet](https://github.com/hanzhu97702/DSNet). Many thanks to the authors for their valuable work.
