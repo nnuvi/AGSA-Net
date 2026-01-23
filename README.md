@@ -6,10 +6,8 @@ AGSA-Net is an abundance-guided self-attention framework for hyperspectral remot
 
 <p align="center">
   <img src="./architecture.png" width="750">
-  <sub>
-    Figure: Architecture of the proposed Abundance-Guided Self-Attention Network (AGSA-Net) for spectral unmixing-aware hyperspectral image classification.
-  </sub>
 </p>
+**Figure:** Architecture of the proposed Abundance-Guided Self-Attention Network (AGSA-Net) for spectral unmixing-aware hyperspectral image classification.
 
 The network first estimates physically meaningful abundance maps under non-negativity and sum-to-one constraints. These maps are refined using a hybrid linear–nonlinear reconstruction decoder and used to build an abundance affinity prior. This prior guides the spectral self-attention transformer to focus on class-discriminative spectral interactions. Finally, transformer features are fused with compact abundance descriptors for classification, combining spectral unmixing insights with self-attention modeling.
 
