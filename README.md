@@ -38,20 +38,24 @@ The results reported in the manuscript were obtained by running this implementat
 
 ## Dataset
 
-The adopted Berlin and Augsburg datasets can be downloaded from (https://pan.baidu.com/s/1fOzt4CJ0FQwDjGSP3DOU9w?pwd=c258) (code: c258).
+The adopted Augsburg and Berlin datasets can be downloaded from (https://pan.baidu.com/s/1fOzt4CJ0FQwDjGSP3DOU9w?pwd=c258) (code: c258).
 
 ## Run
 
 ### Train
+Main command to train the model on a specified dataset.  
+Dataset and patch size can be changed via `--dataset` and `--patches`.
 
 ```bash
-python main.py --dataset Indian --flag_test train 
+python main.py --dataset Indian --flag_test train --patches 7
 ```
 
-### test 
+### Test 
+Command to evaluate the trained model on a specified dataset.
+Saved model needs to be loaded before testing.
 
 ```bash
-python main.py --dataset Indian --flag_test test 
+python main.py --dataset Indian --flag_test test --patches 7
 ```
 ## Acknowledgement
 
