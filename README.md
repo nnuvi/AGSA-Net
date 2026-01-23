@@ -38,7 +38,7 @@ The results reported in the manuscript were obtained by running this implementat
 
 ## Dataset
 
-The adopted Berlin and Augsburg datasets can be downloaded from (https://pan.baidu.com/s/1fOzt4CJ0FQwDjGSP3DOU9w?pwd=c258) (the extracted code is c258).
+The adopted Berlin and Augsburg datasets can be downloaded from (https://pan.baidu.com/s/1fOzt4CJ0FQwDjGSP3DOU9w?pwd=c258) (code: c258).
 
 ## Run
 
