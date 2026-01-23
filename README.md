@@ -43,16 +43,14 @@ The adopted Augsburg and Berlin datasets can be downloaded from (https://pan.bai
 ## Run
 
 ### Train
-Main command to train the model on a specified dataset.  
-Dataset and patch size can be changed via `--dataset` and `--patches`.
+Main command to train the model on a specified dataset. Dataset and patch size can be changed via `--dataset` and `--patches`.
 
 ```bash
 python main.py --dataset Indian --flag_test train --patches 7
 ```
 
 ### Test 
-Command to evaluate the trained model on a specified dataset.
-Saved model needs to be loaded before testing.
+Command to evaluate the trained model on a specified dataset. Saved model needs to be loaded before testing.
 
 ```bash
 python main.py --dataset Indian --flag_test test --patches 7
