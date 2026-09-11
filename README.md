@@ -2,10 +2,6 @@
 
 This is the official PyTorch implementation of [AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/11675920) by Nafisa Anjum, Satavisa Dey Borno, Ananna Saha, [Mir Faiyaz Hossain](https://scholar.google.com/citations?user=bKzBdFwAAAAJ&hl=en&oi=ao), [Sifat Momen](https://scholar.google.com/citations?user=sGVZEaAAAAAJ&hl=en&oi=ao), [Nabeel Mohammed](https://scholar.google.com/citations?user=w5djOYsAAAAJ&hl=en), and [Shafin Rahman](https://scholar.google.com/citations?hl=en&user=Pe8C-SUAAAAJ&view_op=list_works&sortby=pubdate).
 
-<p align="center">
-  <a href="https://arxiv.org/pdf/2609.06359">[arXiv]</a>
-</p>
-
 ## Overview
 
 AGSA-Net is an abundance-guided self-attention framework for hyperspectral remote sensing image classification. The proposed model leverage **spectral unmixing** to estimate physically meaningful abundance maps, which represent the material composition of each pixel. These abundance maps are used to guide a **self-attention transformer**, allowing the network to focus on **class-discriminative spectral interactions** and long-range dependencies.
