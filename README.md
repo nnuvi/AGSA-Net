@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of [AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification](https://ieeexplore.ieee.org/document/11675920) by Nafisa Anjum, Satavisa Dey Borno, Ananna Saha, Mir Faiyaz Hossain, Sifat Momen, Nabeel Mohammed, and Shafin Rahman.
 
-**Paper:** [IEEE TGRS](https://ieeexplore.ieee.org/document/11675920) · [arXiv:2609.06359](https://arxiv.org/abs/2609.06359)
+**Paper:** [[IEEE TGRS]](https://ieeexplore.ieee.org/document/11675920) · [[arXiv:2609.06359]](https://arxiv.org/abs/2609.06359)
 
 ## Overview
 
