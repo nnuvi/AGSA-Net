@@ -1,4 +1,4 @@
-# [AGSA-Net](https://ieeexplore.ieee.org/document/11675920) [IEEE TGRS 2026]
+# [AGSA-Net] [IEEE TGRS 2026]
 
 This is the official PyTorch Implementation of AGSA-Net (AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification) by
 Nafisa Anjum, Satavisa Dey Borno, Ananna Saha, Mir Faiyaz Hossain, Sifat Momen, Nabeel Mohammed and Shafin Rahman.
