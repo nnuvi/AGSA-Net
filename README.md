@@ -57,10 +57,6 @@ Command to evaluate the trained model on a specified dataset. Saved model needs 
 ```bash
 python main.py --dataset Indian --flag_test test --patches 7
 ```
-## Acknowledgement
-
-Part of this code is based on the implementation of [DSNet](https://github.com/hanzhu97702/DSNet). Many thanks to the authors for their valuable work.
-
 ## ⭐ Citation
 
 If you find this repository or **AGSA-Net** useful in your research, please kindly cite our work:
@@ -77,3 +73,9 @@ If you find this repository or **AGSA-Net** useful in your research, please kind
   keywords={Modeling;Materials;Pixel;Transformers;Labeling;Training;Hyperspectral imaging;Image classification;Accuracy;Convolutional neural networks;Hyperspectral imaging;remote sensing;spectral unmixing;abundance estimation;geoscience;deep learning;transformers;self-attention;hyperspectral image classification},
   doi={10.1109/TGRS.2026.3729910}
 }
+
+## Acknowledgement
+
+Part of this code is based on the implementation of [DSNet](https://github.com/hanzhu97702/DSNet). Many thanks to the authors for their valuable work.
+
+
