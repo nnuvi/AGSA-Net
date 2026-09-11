@@ -1,4 +1,4 @@
-# AGSA-Net
+# AGSA-Net [IEEE TGRS 2026]
 
 ## Overview
 
