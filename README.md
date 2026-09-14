@@ -65,14 +65,14 @@ If you find this repository or **AGSA-Net** useful in your research, please kind
 
 ```bibtex
 @ARTICLE{11675920,
-  author={Anjum, Nafisa and Borno, Satavisa Dey and Saha, Ananna and Hossain, Mir Faiyaz and Momen, Sifat and Mohammed, Nabeel and Rahman, Shafin},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  title={AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification},
+  author={Anjum, Nafisa and Dey Borno, Satavisa and Saha, Ananna and Faiyaz Hossain, Mir and Momen, Sifat and Mohammed, Nabeel and Rahman, Shafin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={AGSA-Net: Abundance-Guided Self-Attention Network for Spectral Unmixing-Aware Hyperspectral Remote Sensing Image Classification}, 
   year={2026},
-  volume={},
+  volume={64},
   number={},
-  pages={1-1},
-  keywords={Modeling;Materials;Pixel;Transformers;Labeling;Training;Hyperspectral imaging;Image classification;Accuracy;Convolutional neural networks;Hyperspectral imaging;remote sensing;spectral unmixing;abundance estimation;geoscience;deep learning;transformers;self-attention;hyperspectral image classification},
+  pages={5527214-5527214},
+  keywords={Modeling;Materials;Pixel;Transformers;Labeling;Training;Hyperspectral imaging;Image classification;Accuracy;Convolutional neural networks;Abundance estimation;deep learning;geoscience;hyperspectral image (HSI) classification;hyperspectral imaging;remote sensing;self-attention;spectral unmixing;transformers},
   doi={10.1109/TGRS.2026.3729910}
 }
 ```
